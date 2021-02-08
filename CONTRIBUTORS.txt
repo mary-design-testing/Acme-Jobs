@@ -12,3 +12,4 @@ The contributors of this project are:
 
 - Rafael Corchuelo (corchu@us.es)
 - Mary Design-Testing (mary-design-testing@mail.com)
+- John Design-Testing (john-design-testing@mail.com)
